@@ -5,3 +5,5 @@ for desktop:
 for mobile: 
 ![image](https://github.com/ralucaardeleanu/social-links-project/assets/125963665/545ae1d6-86b3-4489-8d62-d60d132ab760)
 
+
+![image](https://github.com/ralucaardeleanu/social-links-project/assets/125963665/bcc7f3e8-3d7f-48a1-87b2-3e9c6f44d1ab)
